@@ -1,0 +1,4 @@
+{
+  "test/inventory_test.py::test_autogen_id": true,
+  "test/inventory_test.py::test_write_to_csv": true
+}
